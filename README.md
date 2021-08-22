@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**olaleyeayoola/olaleyeayoola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello friends 👋
 
 - 🔭 I’m currently working on a Real-time detection system. Feel free to check out my previously completed projects
 - 🌱 I’m currently learning more about embedded systems
